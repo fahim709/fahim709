@@ -2,13 +2,17 @@
 <h3 align="center">Computer Science & Engineering Student | Software Developer | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahim-hasan709/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://komarev.com/ghpvc/?username=fahim709&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahim-hasan709/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fahim%20Hasan-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:fahimhasan709@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://fahimfolio-fa8gqzx7.manus.space">
+  <a href="https://fahimfolio-fa8gqzx7.manus.space" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
@@ -17,21 +21,21 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science & Engineering student at **Green University of Bangladesh** with a strong interest in software development, problem solving, cybersecurity, and emerging technologies.
+I'm **Fahim Hasan**, a Computer Science & Engineering student at **Green University of Bangladesh** with a strong interest in software development, cybersecurity, and problem solving.
 
-I enjoy building practical projects, learning new technologies, and strengthening my understanding of computer science fundamentals. Currently, I'm focusing on C++, Data Structures & Algorithms, Linux, and cybersecurity concepts while working toward becoming a well-rounded software engineer.
+I enjoy building practical projects, learning new technologies, and continuously improving my technical skills. My current focus is on strengthening my foundations in programming, algorithms, Linux, and cybersecurity while working toward a professional career in the global technology industry.
 
-- 🎓 CSE Student at Green University of Bangladesh
+- 🎓 Computer Science & Engineering Student
 - 💻 Interested in Software Development & Cybersecurity
-- 🌱 Currently learning C++, DSA, Linux, and Security Fundamentals
+- 🌱 Currently learning C++, Data Structures & Algorithms, Linux, and Security Fundamentals
 - 🔍 Exploring Capture The Flag (CTF) challenges
-- 🌏 Fluent in Bengali & English, Learning Japanese
+- 🌏 Bengali | English | Japanese (Learning)
 - 📫 Reach me at **fahimhasan709@gmail.com**
 - 🚀 Portfolio: **https://fahimfolio-fa8gqzx7.manus.space**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,linux,git,github,vscode,arduino,figma,blender" />
@@ -39,26 +43,37 @@ I enjoy building practical projects, learning new technologies, and strengthenin
 
 ---
 
-## 📌 Featured Projects
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Linux Fundamentals
+- Cybersecurity Basics
+- Capture The Flag (CTF)
+- Software Engineering Principles
+- Problem Solving
+
+---
+
+## 🚀 Featured Projects
 
 ### 🚦 Smart Automatic Street Light Using Ultrasonic Sensor
-An Arduino-based system that automatically adjusts street light levels based on vehicle distance using an HC-SR04 ultrasonic sensor and LCD display.
+Arduino-based smart street lighting system that automatically adjusts lighting levels according to vehicle distance using an HC-SR04 ultrasonic sensor and LCD display.
 
 ### 🔥 Arduino-Based Smart Fire Alarm System
-Designed and developed a fire detection and alert system using sensors and microcontrollers.
+A fire detection and alert system built using sensors and microcontrollers for safety monitoring.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fahim-hasan709/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://instagram.com/charlie_chiku">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
+  <a href="https://www.linkedin.com/in/fahim-hasan709/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  
+  <a href="https://www.instagram.com/charlie__chiku/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
 </p>
 
 ---
@@ -66,13 +81,22 @@ Designed and developed a fire detection and alert system using sensors and micro
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahim709&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahim709&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim709&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim709&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim709&theme=github-dark-blue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim709&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+## 💡 Quote
+
+> “Continuous learning and consistent improvement are the foundation of growth.”
+
+---
+⭐ From [fahim709](https://github.com/fahim709)
